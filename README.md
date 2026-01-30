@@ -39,7 +39,7 @@ I care about software that works today and stays sane as it grows.
 - Enjoy collaborating with distributed teams and global clients
 - Constantly improving tooling, workflows, and system reliability
 
-<div align="left">
+<div align="left"> 
   <p>⚡ I build scalable software for web and mobile, and ship it reliably.</p>
   <img src="https://komarev.com/ghpvc/?username=madmaxhasan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
