@@ -61,13 +61,13 @@ I care about software that works today and stays sane as it grows.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=madmaxhasan&theme=gruvbox&hide_border=true&show_icons=true&count_private=true" width="35%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=madmaxhasan&theme=gruvbox&hide_border=true&show_icons=true&count_private=true" width="50%" />
 </p>
 
 ### 🔥 Contribution Streak
 
 <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=madmaxhasan&theme=gruvbox&hide_border=true" width="35%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=madmaxhasan&theme=gruvbox&hide_border=true" width="50%" />
 </p>
 
 ## 💼 Experience
